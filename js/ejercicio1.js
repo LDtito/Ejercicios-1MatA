@@ -1,6 +1,7 @@
 document.getElementById("tipo1").innerHTML = "Ejemplo del tipo 1 de Output";
 let dinero = 10;
-document.write("este es una prueba");
+const nombre = "dilan";
+let compra = 4;
 document.write("Ejemplo de texto con document.write");
 
 window.alert("Ejemplo de output con window.alert");
