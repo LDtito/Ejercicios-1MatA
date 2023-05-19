@@ -1,6 +1,6 @@
 document.getElementById("tipo1").innerHTML = "Ejemplo del tipo 1 de Output";
 let dinero = 10;
-
+let moneda = 4;
 document.write("texto de ejemplo");
 document.write("Ejemplo de texto con document.write");
 
